@@ -100,6 +100,21 @@
     This project is built based on knowledge and guidance from <a href="https://docs.microsoft.com/en-us/aspnet/core">Microsoft Docs</a>.
 </p>
 
+<p>
+    If you want to log in please use the following accounts:
+
+    - username : user, password : 1 (role user)
+
+    - username : admin, password : 1 (role admin)
+
+    - username : sales, password : 1 (sales role)
+</p>
+
+<p>
+Access: http://localhost:5000/swagger/index.html
+Or public for others to use via IPv4 connection: http://<IPv4>:5000/swagger/index.html
+</p>
+    
 <h2>Author</h2>
 
 <p>
