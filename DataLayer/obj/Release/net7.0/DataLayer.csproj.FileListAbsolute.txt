@@ -1,0 +1,14 @@
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Release\net7.0\DataLayer.deps.json
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Release\net7.0\DataLayer.runtimeconfig.json
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Release\net7.0\DataLayer.dll
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Release\net7.0\DataLayer.pdb
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.AssemblyInfo.cs
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.dll
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\refint\DataLayer.dll
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.pdb
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\DataLayer.genruntimeconfig.cache
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Release\net7.0\ref\DataLayer.dll

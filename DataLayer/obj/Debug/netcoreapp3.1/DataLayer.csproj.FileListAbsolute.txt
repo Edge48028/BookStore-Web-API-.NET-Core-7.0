@@ -1,0 +1,13 @@
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\garen\Downloads\API Test\NT208\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache

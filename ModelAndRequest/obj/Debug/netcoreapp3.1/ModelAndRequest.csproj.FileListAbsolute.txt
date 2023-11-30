@@ -1,0 +1,13 @@
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\bin\Debug\netcoreapp3.1\ModelAndRequest.deps.json
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\bin\Debug\netcoreapp3.1\ModelAndRequest.dll
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\bin\Debug\netcoreapp3.1\ModelAndRequest.pdb
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.csproj.AssemblyReference.cache
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.AssemblyInfoInputs.cache
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.AssemblyInfo.cs
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.csproj.CoreCompileInputs.cache
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.csproj.CopyComplete
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.dll
+C:\Users\garen\Downloads\API Test\NT208\ModelAndRequest\obj\Debug\netcoreapp3.1\ModelAndRequest.pdb
