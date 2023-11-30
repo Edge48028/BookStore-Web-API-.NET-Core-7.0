@@ -18,7 +18,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=#181717" alt="GitHub logo" title="GitHub" height="25" /></span>
 <br>
-<h1>Web API .NET Core 6</h1>
+<h1>Web API .NET Core 7.0</h1>
 
 <p>It's a versatile ASP.NET Core 7.0 application with integrated authentication and authorization, user account management, and book information management. The application uses Entity Framework Core to connect and manage a SQL Server database.</p>
 
